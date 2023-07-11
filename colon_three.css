@@ -132,3 +132,19 @@ div.section-28YDOf > div.markup-eYLPri span,
 .note-1NN2aP > textarea {
     color: #a095ea !important;
 }
+
+[mask="url(#svg-mask-status-online-mobile)"] {
+    mask: url(#svg-mask-status-online-mobile) !important;
+}
+
+[mask="url(#svg-mask-status-dnd)"] {
+    mask: url(#svg-mask-status-dnd) !important;
+}
+
+[mask="url(#svg-mask-status-streaming)"] {
+    mask: url(#svg-mask-status-streaming) !important;
+}
+
+[mask="url(#svg-mask-status-idle)"] {
+    mask: url(#svg-mask-status-idle) !important;
+}
