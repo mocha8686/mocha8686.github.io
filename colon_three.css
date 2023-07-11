@@ -115,3 +115,20 @@
 !                  Code block starting with ':root' should be below @imports but above all other code
 !===============================================================================================================================
 */
+
+.anchor-1X4H4q:not(.embedAuthorName-pGyUPR),
+.userTagUsernameBase-267ALn,
+div.section-28YDOf > h2.eyebrow-1Shfyi {
+	color: #412ad5 !important;
+}
+
+.messageContent-2t3eCI,
+.activityText-1rR-8O,
+.customStatusText-V9aTHE,
+div.section-28YDOf > div.markup-eYLPri span,
+.memberSinceContainer-2CBD23 *,
+.roleName-2ZJJYR > div,
+.base-3bcbY3 *,
+.note-1NN2aP > textarea {
+    color: #a095ea !important;
+}
