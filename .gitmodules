@@ -1,0 +1,3 @@
+[submodule "Lavender"]
+	path = Lavender
+	url = git@github.com:Lavender-Discord/Lavender
