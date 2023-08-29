@@ -16,10 +16,10 @@
 !===============================================================================================================================
 */
 
-@import url("https://huecester.github.io/Lavender/src/src/source.css");
+@import url("https://mocha8686.github.io/Lavender/src/src/source.css");
 /* ⚠️ Main theme file — Do not remove */
 
-@import url("https://huecester.github.io/Lavender/src/skins/skin-loader/skin-loader.css");
+@import url("https://mocha8686.github.io/Lavender/src/skins/skin-loader/skin-loader.css");
 /* ⚠️ The file responsible for all the colors and skin loading */
 
 /* 
@@ -31,7 +31,7 @@
 
 /* Imports your desired color scheme of Lavender */
 
-@import url("https://huecester.github.io/colon_three.theme.css");
+@import url("https://mocha8686.github.io/colon_three.theme.css");
 /* Default color scheme */
 
 /*
@@ -43,7 +43,7 @@
 
 /* Import your desired color scheme for codeblocks - Works best with better codeblocks plugin */
 
-@import url("https://huecester.github.io/Lavender/src/skins/codeblock/tokyo-night.css");
+@import url("https://mocha8686.github.io/Lavender/src/skins/codeblock/tokyo-night.css");
 /* Default color scheme */
 
 /**? Put your codeblock skin import links here and comment out the import for default color scheme above ?**/
@@ -55,19 +55,19 @@
 !===============================================================================================================================
 */
 
-@import url("https://huecester.github.io/Lavender/src/extensions/context-iconsax.css");
+@import url("https://mocha8686.github.io/Lavender/src/extensions/context-iconsax.css");
 /* Context icons for menus */
 
-@import url("https://huecester.github.io/Lavender/src/extensions/emoji-replace.css");
+@import url("https://mocha8686.github.io/Lavender/src/extensions/emoji-replace.css");
 /* Replaces all discord emojis with the microsoft ones */
 
-@import url("https://huecester.github.io/Lavender/src/extensions/friends-grid.css");
+@import url("https://mocha8686.github.io/Lavender/src/extensions/friends-grid.css");
 /* Makes the friends tab layout a 3 row grid */
 
-@import url("https://huecester.github.io/Lavender/src/extensions/iconsax.css");
+@import url("https://mocha8686.github.io/Lavender/src/extensions/iconsax.css");
 /* Replaces all discord icons with modern ones */
 
-@import url("https://huecester.github.io/Lavender/src/extensions/settings-iconsax.css");
+@import url("https://mocha8686.github.io/Lavender/src/extensions/settings-iconsax.css");
 /* Adds iconsax icons next to sidebar items in settings */
 
 /* 
@@ -80,31 +80,31 @@
 
 
 /*? ====== Removed Stuff ======*/
-@import url("https://huecester.github.io/Lavender/src/design/removed/removed.css");
+@import url("https://mocha8686.github.io/Lavender/src/design/removed/removed.css");
 /* Removes few of the elements from discord, remove this import to get them back */
 
 
 /*? ====== User Action Buttons (Mute, Deafen, Settings) ======*/
-@import url("https://huecester.github.io/Lavender/src/design/user-actions/vertical.css");
+@import url("https://mocha8686.github.io/Lavender/src/design/user-actions/vertical.css");
 /* Vertical allignment on the left side in server list */
 
-/* @import url("https://huecester.github.io/Lavender/src/design/user-actions/vertical-connected.css"); /* */
+/* @import url("https://mocha8686.github.io/Lavender/src/design/user-actions/vertical-connected.css"); /* */
 /* Vertical allignment on the left side in server list, buttons are connected in this one */
 
 
 /*? ====== Status Indicators ======*/
-@import url("https://huecester.github.io/Lavender/src/design/status-indicators/top-right.css");
+@import url("https://mocha8686.github.io/Lavender/src/design/status-indicators/top-right.css");
 /* Moves the status indicators to the upper right side of the user avatar */
 
-/* @import url("https://huecester.github.io/Lavender/src/design/status-indicators/radial.css"); /* */
+/* @import url("https://mocha8686.github.io/Lavender/src/design/status-indicators/radial.css"); /* */
 /* Radial statuses for lavender, made by gibbu, must disable the top-right status import to make this work */
 
 
 /*? ====== Server List allignment ======*/
-/* @import url("https://huecester.github.io/Lavender/src/design/server-list/bottom.css"); /* */
+/* @import url("https://mocha8686.github.io/Lavender/src/design/server-list/bottom.css"); /* */
 /* Puts the server list on the bottom */
 
-/* @import url("https://huecester.github.io/Lavender/src/design/server-list/top.css"); /* */
+/* @import url("https://mocha8686.github.io/Lavender/src/design/server-list/top.css"); /* */
 /* Puts the server list on the top */
 
 /* 
